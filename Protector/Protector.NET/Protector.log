@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UpgradeLog Upgraded = "True" >
+    <Settings>
+        <Setting
+            Name = "LogFile"
+            Value = "Protector.log"
+        />
+        <Setting
+            Name = "GenerateInterfacesForClasses"
+            Value = "FALSE"
+        />
+        <Setting
+            Name = "ProjectName"
+            Value = "Protector"
+        />
+        <Setting
+            Name = "OutputName"
+            Value = "Protector.vbproj"
+        />
+        <Setting
+            Name = "OutputDir"
+            Value = "C:\Programming\Semag\Protector\Protector.NET"
+        />
+        <Setting
+            Name = "ProjectPath"
+            Value = "C:\Programming\Semag\Protector\Protector.vbp"
+        />
+        <Setting
+            Name = "MigrateProjectTo"
+            Value = "0"
+        />
+    </Settings>
+    <File
+        OldPath = "C:\Programming\Semag\Protector\Protector2.frm"
+        NewPath = "C:\Programming\Semag\Protector\Protector.NET\Protector2.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    >
+        <Section Name = "(Layout)" >
+            <Issue
+                Type = "Design"
+                Number = "2067"
+                ObjectName = "Line1"
+                ObjectType = "Line"
+            >Line control Line1 was not upgraded.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2067"
+                ObjectName = "Line2"
+                ObjectType = "Line"
+            >Line control Line2 was not upgraded.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2067"
+                ObjectName = "_Energy_0"
+                ObjectType = "Shape"
+            >Shape control _Energy_0 was not upgraded.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2067"
+                ObjectName = "_Energy_1"
+                ObjectType = "Shape"
+            >Shape control _Energy_1 was not upgraded.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2067"
+                ObjectName = "_Energy_2"
+                ObjectType = "Shape"
+            >Shape control _Energy_2 was not upgraded.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2067"
+                ObjectName = "_Energy_3"
+                ObjectType = "Shape"
+            >Shape control _Energy_3 was not upgraded.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2067"
+                ObjectName = "_Energy_4"
+                ObjectType = "Shape"
+            >Shape control _Energy_4 was not upgraded.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2067"
+                ObjectName = "_Energy_5"
+                ObjectType = "Shape"
+            >Shape control _Energy_5 was not upgraded.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2067"
+                ObjectName = "_Energy_6"
+                ObjectType = "Shape"
+            >Shape control _Energy_6 was not upgraded.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2067"
+                ObjectName = "_Energy_7"
+                ObjectType = "Shape"
+            >Shape control _Energy_7 was not upgraded.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2067"
+                ObjectName = "_Energy_8"
+                ObjectType = "Shape"
+            >Shape control _Energy_8 was not upgraded.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2067"
+                ObjectName = "_Energy_9"
+                ObjectType = "Shape"
+            >Shape control _Energy_9 was not upgraded.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2067"
+                ObjectName = "_Energy_10"
+                ObjectType = "Shape"
+            >Shape control _Energy_10 was not upgraded.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2067"
+                ObjectName = "_Energy_11"
+                ObjectType = "Shape"
+            >Shape control _Energy_11 was not upgraded.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2067"
+                ObjectName = "_Energy_12"
+                ObjectType = "Shape"
+            >Shape control _Energy_12 was not upgraded.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2067"
+                ObjectName = "_Energy_13"
+                ObjectType = "Shape"
+            >Shape control _Energy_13 was not upgraded.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2067"
+                ObjectName = "_Energy_14"
+                ObjectType = "Shape"
+            >Shape control _Energy_14 was not upgraded.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2067"
+                ObjectName = "_Energy_15"
+                ObjectType = "Shape"
+            >Shape control _Energy_15 was not upgraded.</Issue>
+        </Section>
+    </File>
+    <File
+        OldPath = "C:\Programming\Semag\Protector\Info.bas"
+        NewPath = "C:\Programming\Semag\Protector\Protector.NET\Info.vb"
+        FileType = "Module"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "C:\Programming\Semag\Protector\Main.frm"
+        NewPath = "C:\Programming\Semag\Protector\Protector.NET\Main.vb"
+        FileType = "Form"
+        Upgraded = "False"
+    >
+        <Section Name = "(Layout)" >
+            <Issue
+                Type = "Design"
+                Number = "2067"
+                ObjectName = "Shape4"
+                ObjectType = "Shape"
+            >Shape control Shape4 was not upgraded.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2067"
+                ObjectName = "Shape3"
+                ObjectType = "Shape"
+            >Shape control Shape3 was not upgraded.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2067"
+                ObjectName = "Shape2"
+                ObjectType = "Shape"
+            >Shape control Shape2 was not upgraded.</Issue>
+            <Issue
+                Type = "Design"
+                Number = "2067"
+                ObjectName = "Shape1"
+                ObjectType = "Shape"
+            >Shape control Shape1 was not upgraded.</Issue>
+        </Section>
+    </File>
+    <Issue
+        Type = "Global Error"
+        Number = "4002"
+    >Could not load referenced component: MCI32.OCX (1.1.0) You need to install this component before you upgrade the project.It is recommended you install VB6.0, with all referenced components, and ensure the application compiles and runs before upgrading.</Issue>
+</UpgradeLog>
+
